@@ -1,6 +1,7 @@
 # Work-Tracker
 Built for a small construction company to track current jobs and employee allocation\
-Can filter by Job Status
+<br>
+Can filter by Job Status\
 ![pic1](https://github.com/BrettAnderson015/Work-Tracker/blob/temp/WorkTrackerpic1.gif)
 ![pic2](https://github.com/BrettAnderson015/Work-Tracker/blob/temp/WorkTrackerpic2.gif)
 Assign jobs for workers. Excludes 'completed' jobs.\
