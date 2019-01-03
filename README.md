@@ -8,7 +8,6 @@ Assign jobs to employees\
 Track allocation of work days for each job and employee\
 <br>
 <br>
-Can filter by Job Status
 ![pic1](https://github.com/BrettAnderson015/Work-Tracker/blob/temp/WorkTrackerpic1.gif)
 ![pic2](https://github.com/BrettAnderson015/Work-Tracker/blob/temp/WorkTrackerpic2.gif)
 Assign jobs for workers. Excludes 'completed' jobs.\
