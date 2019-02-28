@@ -1,0 +1,13 @@
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\bin\Debug\WorkTracker.exe.config
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\bin\Debug\WorkTracker.exe
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\bin\Debug\WorkTracker.pdb
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.csprojAssemblyReference.cache
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.AddJob.resources
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.Form1.resources
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.Properties.Resources.resources
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.csproj.GenerateResource.cache
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.csproj.CoreCompileInputs.cache
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.exe
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.pdb
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.EmployeeForm.resources
+C:\Users\Brett\source\repos\WorkTracker\WorkTracker\obj\Debug\WorkTracker.AddEmployeeForm.resources
